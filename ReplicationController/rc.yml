@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: nodeapp
-        image: ramyareddymallu/myapp:36
+        image: ramyareddymallu/app:4.0
         ports:
         - containerPort: 8080
